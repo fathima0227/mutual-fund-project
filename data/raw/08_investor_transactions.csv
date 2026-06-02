@@ -1,0 +1,277 @@
+investor_id,transaction_date,amfi_code,transaction_type,amount_inr,state,city,city_tier,age_group,gender,annual_income_lakh,payment_mode,kyc_status
+INV003054,2024-01-01,119092,SIP,1834,Telangana,Hyderabad,T30,56+,Female,77.1,UPI,Verified
+INV002952,2024-01-01,148567,Redemption,392882,Punjab,Amritsar,B30,18-25,Male,7.1,Cheque,Verified
+INV003420,2024-01-01,118636,SIP,912,Haryana,Faridabad,B30,36-45,Male,47.2,Mandate,Verified
+INV003436,2024-01-01,118634,SIP,1102,Maharashtra,Mumbai,T30,36-45,Female,54.4,Cheque,Pending
+INV004691,2024-01-01,119094,Lumpsum,8682,Delhi,Noida,T30,26-35,Male,14.5,Net Banking,Pending
+INV001497,2024-01-01,101208,SIP,3295,Maharashtra,Mumbai,T30,36-45,Male,56.8,Mandate,Verified
+INV000786,2024-01-01,101208,SIP,15047,Madhya Pradesh,Bhopal,B30,26-35,Male,17.9,Mandate,Verified
+INV000616,2024-01-01,100016,SIP,933,Maharashtra,Nashik,B30,36-45,Male,50.4,Mandate,Verified
+INV003670,2024-01-01,119120,SIP,10672,Punjab,Chandigarh,T30,36-45,Male,38.4,Net Banking,Verified
+INV002054,2024-01-01,148567,SIP,1111,Telangana,Hyderabad,T30,26-35,Male,17.8,Net Banking,Verified
+INV002592,2024-01-01,101208,Lumpsum,411860,Madhya Pradesh,Bhopal,B30,26-35,Female,15.7,Mandate,Verified
+INV001023,2024-01-01,118636,SIP,4865,Gujarat,Ahmedabad,T30,36-45,Male,27.1,Net Banking,Verified
+INV002893,2024-01-01,120843,SIP,8472,Telangana,Hyderabad,T30,56+,Male,69.4,UPI,Pending
+INV000797,2024-01-01,102885,SIP,58257,Rajasthan,Jaipur,T30,36-45,Female,53.7,Net Banking,Verified
+INV000368,2024-01-01,118636,Redemption,339882,Uttar Pradesh,Agra,B30,26-35,Male,16.2,UPI,Verified
+INV000548,2024-01-01,119095,SIP,1607,Karnataka,Mysore,B30,36-45,Male,53.2,Cheque,Verified
+INV000600,2024-01-01,149322,SIP,20890,Maharashtra,Mumbai,T30,26-35,Male,17.3,Net Banking,Verified
+INV004347,2024-01-01,119599,SIP,1862,West Bengal,Kolkata,T30,36-45,Male,20.5,Net Banking,Verified
+INV000437,2024-01-01,120504,SIP,900,Telangana,Hyderabad,T30,26-35,Female,6.1,UPI,Verified
+INV000609,2024-01-01,120842,SIP,8493,Tamil Nadu,Coimbatore,B30,18-25,Male,3.9,Mandate,Verified
+INV000428,2024-01-01,118636,SIP,9146,Delhi,Gurugram,T30,36-45,Male,27.2,Mandate,Verified
+INV003329,2024-01-01,101207,Lumpsum,295055,Madhya Pradesh,Indore,T30,56+,Male,25.2,Mandate,Verified
+INV000968,2024-01-01,100025,Lumpsum,497564,Tamil Nadu,Chennai,T30,36-45,Female,37.1,UPI,Verified
+INV004154,2024-01-01,102885,SIP,1897,Karnataka,Mysore,B30,18-25,Male,4.7,Net Banking,Verified
+INV000234,2024-01-01,148567,SIP,28094,Tamil Nadu,Coimbatore,B30,26-35,Male,23.8,Mandate,Verified
+INV002885,2024-01-01,148567,Lumpsum,430566,Delhi,Gurugram,T30,26-35,Male,23.4,Cheque,Pending
+INV002157,2024-01-01,102885,Lumpsum,112928,Punjab,Chandigarh,T30,26-35,Male,16.9,Mandate,Verified
+INV001665,2024-01-01,120505,SIP,3322,Telangana,Hyderabad,T30,36-45,Male,35.1,Mandate,Verified
+INV002328,2024-01-01,120841,SIP,29901,Haryana,Gurugram,T30,26-35,Male,11.6,Cheque,Verified
+INV004174,2024-01-01,119599,SIP,57353,Rajasthan,Udaipur,B30,18-25,Male,4.7,Mandate,Verified
+INV004918,2024-01-01,120503,Redemption,153828,Punjab,Amritsar,B30,56+,Female,46.9,UPI,Verified
+INV000478,2024-01-01,120506,SIP,59382,Gujarat,Surat,T30,36-45,Female,16.5,UPI,Verified
+INV000467,2024-01-01,119552,SIP,2623,Karnataka,Bangalore,T30,18-25,Female,7.1,Cheque,Verified
+INV000603,2024-01-01,118636,SIP,2858,West Bengal,Kolkata,T30,26-35,Male,17.3,Mandate,Verified
+INV004770,2024-01-01,102886,Lumpsum,92031,Gujarat,Surat,T30,18-25,Female,5.2,Mandate,Verified
+INV004648,2024-01-01,118634,SIP,17860,Maharashtra,Pune,T30,36-45,Male,54.3,Mandate,Pending
+INV002432,2024-01-01,101208,SIP,3513,Haryana,Gurugram,T30,46-55,Female,48.1,Net Banking,Verified
+INV002338,2024-01-01,120844,Lumpsum,292991,Delhi,New Delhi,T30,26-35,Male,23.6,UPI,Verified
+INV001041,2024-01-01,101208,SIP,8547,Madhya Pradesh,Bhopal,B30,18-25,Male,5.1,Cheque,Verified
+INV001400,2024-01-01,148567,SIP,10696,Tamil Nadu,Coimbatore,B30,36-45,Male,36.5,Mandate,Verified
+INV000852,2024-01-01,101208,SIP,15916,Maharashtra,Nashik,B30,26-35,Female,18.1,UPI,Verified
+INV004915,2024-01-01,120504,SIP,14096,Uttar Pradesh,Kanpur,B30,26-35,Male,9.6,Cheque,Verified
+INV002984,2024-01-01,120844,Redemption,230179,Delhi,Gurugram,T30,26-35,Male,18.1,Mandate,Verified
+INV002782,2024-01-01,102886,Lumpsum,250209,Punjab,Chandigarh,T30,18-25,Male,3.7,UPI,Verified
+INV002316,2024-01-01,118632,SIP,4715,Punjab,Amritsar,B30,26-35,Male,16.7,Cheque,Verified
+INV000097,2024-01-01,125498,Redemption,527377,Karnataka,Mysore,B30,18-25,Male,6.0,Net Banking,Verified
+INV002139,2024-01-01,125498,Redemption,359482,Haryana,Gurugram,T30,36-45,Female,28.6,Mandate,Verified
+INV002219,2024-01-01,101208,Redemption,525983,Karnataka,Mysore,B30,26-35,Male,6.9,Mandate,Verified
+INV000576,2024-01-01,120841,Redemption,43157,Delhi,New Delhi,T30,46-55,Male,79.7,UPI,Verified
+INV002166,2024-01-01,120844,SIP,1139,Haryana,Gurugram,T30,36-45,Male,33.3,Net Banking,Verified
+INV000836,2024-01-01,100016,SIP,1139,Haryana,Gurugram,T30,26-35,Male,24.4,Mandate,Verified
+INV001540,2024-01-01,101207,SIP,16264,Maharashtra,Pune,T30,26-35,Female,17.3,UPI,Verified
+INV003664,2024-01-01,125498,SIP,15555,Rajasthan,Udaipur,B30,46-55,Male,29.4,UPI,Verified
+INV002966,2024-01-01,149324,SIP,15946,Gujarat,Ahmedabad,T30,26-35,Female,18.4,Mandate,Verified
+INV002387,2024-01-01,118634,SIP,2891,Telangana,Hyderabad,T30,26-35,Male,13.1,UPI,Verified
+INV000983,2024-01-01,101206,SIP,3538,Telangana,Hyderabad,T30,36-45,Male,33.5,UPI,Verified
+INV004128,2024-01-01,119094,Redemption,58934,Haryana,Faridabad,B30,18-25,Male,3.3,UPI,Verified
+INV000081,2024-01-01,120844,SIP,1842,Gujarat,Surat,T30,36-45,Male,31.0,Net Banking,Verified
+INV004548,2024-01-01,119551,Lumpsum,564276,Delhi,Noida,T30,36-45,Female,58.1,Cheque,Verified
+INV002253,2024-01-01,120844,Redemption,289915,West Bengal,Kolkata,T30,46-55,Male,28.6,Net Banking,Verified
+INV002942,2024-01-01,148568,Redemption,233200,Delhi,Noida,T30,36-45,Male,27.8,Cheque,Verified
+INV004308,2024-01-01,119599,SIP,25855,Gujarat,Surat,T30,26-35,Female,11.1,Mandate,Verified
+INV000488,2024-01-01,148568,Redemption,343317,Karnataka,Mysore,B30,56+,Male,31.4,Cheque,Verified
+INV002560,2024-01-02,119120,SIP,6321,Haryana,Faridabad,B30,26-35,Male,6.4,Net Banking,Verified
+INV003028,2024-01-02,100033,SIP,25360,Tamil Nadu,Chennai,T30,26-35,Female,12.8,Cheque,Verified
+INV002868,2024-01-02,148569,SIP,59797,Gujarat,Ahmedabad,T30,26-35,Female,24.7,Net Banking,Verified
+INV001156,2024-01-02,120843,SIP,28986,Madhya Pradesh,Indore,T30,56+,Female,58.8,Cheque,Pending
+INV000313,2024-01-02,120843,Lumpsum,497034,Tamil Nadu,Chennai,T30,18-25,Female,3.1,Net Banking,Verified
+INV003926,2024-01-02,118632,SIP,1891,West Bengal,Kolkata,T30,46-55,Male,92.8,UPI,Verified
+INV003383,2024-01-02,125497,Redemption,241316,Karnataka,Mysore,B30,18-25,Male,4.6,Net Banking,Verified
+INV001017,2024-01-02,118632,Redemption,16893,West Bengal,Kolkata,T30,26-35,Female,19.0,Cheque,Verified
+INV003225,2024-01-02,120843,SIP,3346,West Bengal,Kolkata,T30,26-35,Male,9.2,UPI,Verified
+INV003892,2024-01-02,102887,SIP,7250,Punjab,Amritsar,B30,46-55,Male,24.4,Mandate,Verified
+INV002135,2024-01-02,100016,Lumpsum,437305,Gujarat,Ahmedabad,T30,56+,Male,18.3,Net Banking,Verified
+INV002961,2024-01-02,149322,SIP,16811,Gujarat,Ahmedabad,T30,26-35,Male,13.0,Net Banking,Verified
+INV000983,2024-01-02,101208,SIP,10547,Telangana,Hyderabad,T30,36-45,Male,33.5,Net Banking,Verified
+INV003821,2024-01-02,119092,SIP,7584,Delhi,Noida,T30,18-25,Female,6.4,UPI,Pending
+INV002940,2024-01-02,102886,SIP,966,Haryana,Faridabad,B30,26-35,Male,18.3,Cheque,Verified
+INV002817,2024-01-02,102886,Lumpsum,26453,Gujarat,Ahmedabad,T30,26-35,Male,15.8,UPI,Verified
+INV001890,2024-01-02,120504,Redemption,205486,Karnataka,Mysore,B30,26-35,Male,14.0,Mandate,Verified
+INV001888,2024-01-02,120505,Redemption,410786,Delhi,New Delhi,T30,18-25,Female,6.4,UPI,Verified
+INV000370,2024-01-02,118634,SIP,17394,Delhi,Noida,T30,26-35,Female,12.4,Mandate,Verified
+INV002981,2024-01-02,102886,Lumpsum,100110,Maharashtra,Mumbai,T30,18-25,Female,7.3,Mandate,Verified
+INV003027,2024-01-02,148569,Lumpsum,330642,Telangana,Hyderabad,T30,26-35,Male,20.8,Cheque,Verified
+INV001106,2024-01-02,118636,Lumpsum,50410,Tamil Nadu,Chennai,T30,26-35,Male,13.1,Net Banking,Verified
+INV003942,2024-01-02,118632,SIP,16594,Haryana,Faridabad,B30,26-35,Female,23.3,Cheque,Verified
+INV000339,2024-01-02,101207,Redemption,383487,Uttar Pradesh,Kanpur,B30,26-35,Male,22.3,Cheque,Verified
+INV002811,2024-01-02,125497,SIP,2631,Uttar Pradesh,Agra,B30,36-45,Male,43.7,Net Banking,Verified
+INV004296,2024-01-02,100025,SIP,879,Telangana,Hyderabad,T30,26-35,Male,18.2,UPI,Verified
+INV002976,2024-01-02,119599,Lumpsum,234926,Tamil Nadu,Coimbatore,B30,26-35,Male,23.7,Mandate,Verified
+INV000349,2024-01-02,120505,Redemption,335222,Maharashtra,Mumbai,T30,18-25,Female,3.8,Mandate,Verified
+INV002546,2024-01-02,101208,Redemption,22305,Gujarat,Surat,T30,26-35,Male,19.3,UPI,Verified
+INV003505,2024-01-02,120843,Lumpsum,362856,West Bengal,Kolkata,T30,56+,Female,53.5,Net Banking,Verified
+INV000006,2024-01-02,118633,SIP,8594,Madhya Pradesh,Bhopal,B30,46-55,Female,43.0,Cheque,Verified
+INV000662,2024-01-02,120843,SIP,427,Gujarat,Surat,T30,36-45,Female,20.1,Cheque,Verified
+INV001284,2024-01-02,119092,Lumpsum,6499,West Bengal,Kolkata,T30,36-45,Male,49.0,Cheque,Verified
+INV004127,2024-01-02,148568,SIP,4185,Madhya Pradesh,Indore,T30,36-45,Female,27.3,Mandate,Verified
+INV003208,2024-01-02,120506,SIP,2506,Madhya Pradesh,Bhopal,B30,46-55,Male,80.0,Mandate,Verified
+INV002165,2024-01-02,118634,SIP,2539,Telangana,Hyderabad,T30,46-55,Male,46.2,Net Banking,Verified
+INV002621,2024-01-02,148567,SIP,401,Uttar Pradesh,Agra,B30,26-35,Female,22.6,UPI,Pending
+INV004502,2024-01-02,148567,SIP,10492,Rajasthan,Udaipur,B30,36-45,Male,59.0,Net Banking,Verified
+INV001174,2024-01-02,149323,SIP,977,Maharashtra,Nashik,B30,36-45,Male,12.7,Cheque,Verified
+INV004658,2024-01-02,120842,Lumpsum,17258,Punjab,Chandigarh,T30,56+,Male,48.7,Cheque,Verified
+INV004656,2024-01-02,120844,Lumpsum,357937,Haryana,Gurugram,T30,18-25,Male,4.7,Mandate,Verified
+INV003658,2024-01-02,125498,SIP,12014,West Bengal,Kolkata,T30,26-35,Male,6.3,UPI,Verified
+INV003649,2024-01-02,119598,Redemption,483596,Haryana,Gurugram,T30,46-55,Female,79.9,Cheque,Verified
+INV004582,2024-01-02,149323,Lumpsum,249744,Tamil Nadu,Chennai,T30,56+,Male,67.1,Net Banking,Verified
+INV003232,2024-01-02,120842,SIP,9766,Maharashtra,Pune,T30,36-45,Female,30.9,Mandate,Verified
+INV004414,2024-01-02,149324,SIP,14409,Uttar Pradesh,Lucknow,T30,26-35,Male,6.6,Mandate,Verified
+INV001799,2024-01-02,119120,Lumpsum,116421,Rajasthan,Udaipur,B30,56+,Female,45.2,Cheque,Verified
+INV001506,2024-01-02,119552,Lumpsum,19502,Delhi,Noida,T30,26-35,Female,16.0,UPI,Verified
+INV001699,2024-01-02,119095,SIP,1108,Madhya Pradesh,Indore,T30,26-35,Male,24.6,Net Banking,Verified
+INV002196,2024-01-02,148569,SIP,1696,Delhi,Gurugram,T30,26-35,Female,23.6,UPI,Verified
+INV001328,2024-01-02,120842,Redemption,484947,Uttar Pradesh,Lucknow,T30,26-35,Male,7.4,Net Banking,Verified
+INV004567,2024-01-02,120841,SIP,14130,Telangana,Hyderabad,T30,56+,Male,75.0,Mandate,Verified
+INV003865,2024-01-02,149322,SIP,3482,Gujarat,Ahmedabad,T30,18-25,Female,3.3,Cheque,Verified
+INV000105,2024-01-02,119093,SIP,5253,Punjab,Chandigarh,T30,56+,Male,41.4,UPI,Verified
+INV004514,2024-01-02,148568,SIP,16661,Haryana,Faridabad,B30,46-55,Male,40.1,Mandate,Verified
+INV004516,2024-01-02,102885,SIP,1137,Haryana,Gurugram,T30,36-45,Male,14.4,Net Banking,Verified
+INV002374,2024-01-02,118634,Redemption,81173,Uttar Pradesh,Kanpur,B30,26-35,Female,8.6,Net Banking,Verified
+INV001727,2024-01-02,119598,SIP,16687,Gujarat,Surat,T30,46-55,Female,74.1,Net Banking,Verified
+INV002888,2024-01-03,100025,Redemption,259110,Rajasthan,Udaipur,B30,26-35,Male,9.2,Net Banking,Pending
+INV001769,2024-01-03,120506,SIP,889,Punjab,Chandigarh,T30,18-25,Male,7.4,Cheque,Pending
+INV003609,2024-01-03,120843,SIP,16476,Karnataka,Mysore,B30,26-35,Male,9.2,Net Banking,Verified
+INV003571,2024-01-03,149323,SIP,536,Haryana,Faridabad,B30,36-45,Male,53.1,UPI,Verified
+INV001367,2024-01-03,118632,SIP,10274,Maharashtra,Nashik,B30,36-45,Male,32.2,Net Banking,Verified
+INV003178,2024-01-03,119094,Lumpsum,118897,Telangana,Hyderabad,T30,46-55,Female,60.9,Cheque,Verified
+INV002599,2024-01-03,100025,Lumpsum,286111,Gujarat,Surat,T30,26-35,Male,11.4,Net Banking,Verified
+INV003626,2024-01-03,125497,Redemption,483044,Madhya Pradesh,Indore,T30,26-35,Male,23.5,Net Banking,Verified
+INV000690,2024-01-03,148569,Lumpsum,173646,Delhi,Gurugram,T30,46-55,Male,98.7,UPI,Verified
+INV001860,2024-01-03,119092,SIP,1978,Karnataka,Mysore,B30,26-35,Female,9.0,Cheque,Verified
+INV002065,2024-01-03,100025,SIP,47647,Rajasthan,Udaipur,B30,46-55,Male,78.6,UPI,Verified
+INV002708,2024-01-03,120504,Redemption,205486,Karnataka,Mysore,B30,26-35,Male,14.0,Mandate,Verified
+INV004288,2024-01-03,119120,Lumpsum,95676,Punjab,Amritsar,B30,18-25,Female,6.1,Mandate,Verified
+INV004581,2024-01-03,120505,SIP,2292,Gujarat,Surat,T30,26-35,Male,14.7,Cheque,Pending
+INV002467,2024-01-03,125498,SIP,50948,Punjab,Chandigarh,T30,36-45,Male,12.3,UPI,Verified
+INV003670,2024-01-03,120505,SIP,8793,Punjab,Chandigarh,T30,36-45,Male,38.4,Mandate,Verified
+INV004024,2024-01-03,119552,SIP,43121,Telangana,Hyderabad,T30,36-45,Male,23.1,UPI,Verified
+INV000747,2024-01-03,120841,Lumpsum,374549,West Bengal,Kolkata,T30,36-45,Female,40.3,Mandate,Verified
+INV002847,2024-01-03,148567,SIP,4736,Haryana,Faridabad,B30,26-35,Male,13.4,Mandate,Verified
+INV001508,2024-01-03,120503,SIP,7953,Tamil Nadu,Coimbatore,B30,46-55,Male,63.3,Cheque,Verified
+INV004562,2024-01-03,149324,SIP,963,Telangana,Hyderabad,T30,26-35,Female,19.0,Cheque,Pending
+INV001350,2024-01-03,125498,Lumpsum,83480,Madhya Pradesh,Bhopal,B30,46-55,Female,31.7,Net Banking,Verified
+INV002357,2024-01-03,100016,SIP,26713,Delhi,Gurugram,T30,26-35,Male,7.8,UPI,Verified
+INV002059,2024-01-03,101208,Lumpsum,268619,Haryana,Faridabad,B30,46-55,Male,95.1,Net Banking,Verified
+INV000595,2024-01-03,102887,Lumpsum,124825,Gujarat,Surat,T30,18-25,Male,7.6,Cheque,Verified
+INV004391,2024-01-03,118636,SIP,484,Maharashtra,Mumbai,T30,26-35,Female,23.3,UPI,Verified
+INV004733,2024-01-03,102885,SIP,7080,Telangana,Hyderabad,T30,18-25,Male,5.4,Net Banking,Pending
+INV002865,2024-01-03,148569,Redemption,449863,Maharashtra,Pune,T30,18-25,Male,3.3,UPI,Verified
+INV000454,2024-01-03,119599,SIP,15910,Uttar Pradesh,Lucknow,T30,18-25,Female,6.6,Net Banking,Verified
+INV002414,2024-01-03,120507,Lumpsum,396379,Gujarat,Surat,T30,26-35,Female,24.1,UPI,Verified
+INV000321,2024-01-03,149324,SIP,15782,Maharashtra,Mumbai,T30,26-35,Male,24.2,Cheque,Verified
+INV003379,2024-01-03,120841,SIP,1008,Uttar Pradesh,Lucknow,T30,36-45,Male,43.2,Cheque,Verified
+INV004544,2024-01-03,148567,Redemption,410715,Maharashtra,Mumbai,T30,36-45,Male,52.1,Cheque,Verified
+INV000527,2024-01-03,119094,Lumpsum,114021,Telangana,Hyderabad,T30,26-35,Male,12.1,Mandate,Verified
+INV004633,2024-01-03,125498,Lumpsum,296354,Telangana,Hyderabad,T30,18-25,Female,4.9,Net Banking,Verified
+INV003737,2024-01-03,119093,Lumpsum,126721,Punjab,Chandigarh,T30,18-25,Male,4.4,Net Banking,Verified
+INV000679,2024-01-03,149323,Redemption,141968,Haryana,Faridabad,B30,46-55,Female,79.1,UPI,Verified
+INV004357,2024-01-03,125498,SIP,2459,Delhi,Gurugram,T30,46-55,Female,55.6,Cheque,Verified
+INV004941,2024-01-03,120505,Lumpsum,310085,Maharashtra,Nashik,B30,26-35,Male,11.0,Net Banking,Verified
+INV000632,2024-01-03,120844,Lumpsum,246606,Delhi,Gurugram,T30,36-45,Male,49.1,UPI,Verified
+INV000849,2024-01-03,148567,Lumpsum,254442,Delhi,Gurugram,T30,56+,Female,32.5,Cheque,Verified
+INV001167,2024-01-03,118636,SIP,41124,Punjab,Amritsar,B30,36-45,Male,26.7,Net Banking,Verified
+INV000007,2024-01-03,119094,SIP,13603,Uttar Pradesh,Kanpur,B30,26-35,Male,21.9,Mandate,Verified
+INV000431,2024-01-03,120504,SIP,23759,Madhya Pradesh,Bhopal,B30,18-25,Female,4.6,Mandate,Verified
+INV002417,2024-01-03,120842,SIP,2719,Tamil Nadu,Coimbatore,B30,26-35,Male,16.8,Mandate,Verified
+INV000011,2024-01-03,120507,SIP,2230,West Bengal,Kolkata,T30,26-35,Male,9.6,Mandate,Verified
+INV001167,2024-01-03,102886,SIP,8419,Punjab,Amritsar,B30,36-45,Male,26.7,UPI,Verified
+INV000954,2024-01-03,148568,SIP,2224,Haryana,Faridabad,B30,26-35,Female,8.3,Cheque,Verified
+INV002101,2024-01-03,102887,Redemption,234810,Uttar Pradesh,Lucknow,T30,26-35,Male,14.7,Mandate,Verified
+INV000947,2024-01-03,101208,Redemption,281989,Delhi,Noida,T30,26-35,Male,11.0,UPI,Verified
+INV004867,2024-01-03,100033,Lumpsum,331777,Karnataka,Bangalore,T30,18-25,Male,7.3,Mandate,Verified
+INV004125,2024-01-03,100016,SIP,2999,Gujarat,Surat,T30,26-35,Male,9.4,Cheque,Verified
+INV001910,2024-01-03,102886,Redemption,502057,Karnataka,Mysore,B30,26-35,Female,15.2,Mandate,Verified
+INV001411,2024-01-03,102886,SIP,2998,Delhi,Gurugram,T30,26-35,Female,7.1,Cheque,Verified
+INV003326,2024-01-03,125498,SIP,2712,Karnataka,Bangalore,T30,36-45,Male,40.9,Mandate,Verified
+INV004173,2024-01-03,120504,SIP,479,West Bengal,Kolkata,T30,26-35,Male,16.9,Mandate,Verified
+INV004867,2024-01-03,120506,SIP,3082,Karnataka,Bangalore,T30,18-25,Male,7.3,UPI,Pending
+INV001454,2024-01-03,120843,SIP,554,Tamil Nadu,Chennai,T30,26-35,Male,9.3,Net Banking,Verified
+INV003100,2024-01-04,149324,Lumpsum,361700,Telangana,Hyderabad,T30,26-35,Male,16.5,Net Banking,Verified
+INV000215,2024-01-04,120505,Lumpsum,190843,Maharashtra,Nashik,B30,26-35,Female,18.3,Mandate,Verified
+INV003191,2024-01-04,119092,Lumpsum,94475,Madhya Pradesh,Bhopal,B30,18-25,Female,6.8,Mandate,Verified
+INV003946,2024-01-04,120504,Lumpsum,465127,Karnataka,Mysore,B30,26-35,Female,9.2,Net Banking,Verified
+INV000330,2024-01-04,119552,SIP,8747,Madhya Pradesh,Bhopal,B30,26-35,Female,11.9,Mandate,Verified
+INV004797,2024-01-04,125497,Lumpsum,178854,Gujarat,Ahmedabad,T30,56+,Male,18.9,Net Banking,Verified
+INV000330,2024-01-04,120841,Lumpsum,351770,Madhya Pradesh,Bhopal,B30,26-35,Female,11.9,Net Banking,Verified
+INV001128,2024-01-04,120844,Lumpsum,168521,West Bengal,Kolkata,T30,36-45,Female,43.2,Cheque,Verified
+INV002302,2024-01-04,125498,Lumpsum,153713,West Bengal,Kolkata,T30,26-35,Male,10.1,UPI,Verified
+INV002495,2024-01-04,118636,SIP,2727,Maharashtra,Nashik,B30,26-35,Male,6.6,Net Banking,Verified
+INV002158,2024-01-04,120507,Lumpsum,39096,Madhya Pradesh,Indore,T30,26-35,Male,14.5,Net Banking,Verified
+INV000144,2024-01-04,120503,SIP,499,Delhi,Noida,T30,26-35,Male,19.1,Net Banking,Verified
+INV004563,2024-01-04,118634,Lumpsum,38117,Gujarat,Surat,T30,46-55,Female,32.2,Cheque,Verified
+INV002912,2024-01-04,149323,Redemption,520148,Maharashtra,Mumbai,T30,26-35,Female,23.6,Net Banking,Verified
+INV002343,2024-01-04,119093,SIP,1182,Punjab,Amritsar,B30,26-35,Male,22.1,Net Banking,Verified
+INV000091,2024-01-04,120504,SIP,2368,Haryana,Gurugram,T30,26-35,Male,14.6,Mandate,Verified
+INV004688,2024-01-04,120505,Lumpsum,168104,West Bengal,Kolkata,T30,26-35,Male,20.7,UPI,Verified
+INV004321,2024-01-04,120843,SIP,1147,West Bengal,Kolkata,T30,26-35,Male,16.0,Mandate,Verified
+INV001579,2024-01-04,125498,SIP,40657,Karnataka,Bangalore,T30,46-55,Male,71.1,UPI,Verified
+INV003705,2024-01-04,120506,SIP,57004,Telangana,Hyderabad,T30,26-35,Male,8.0,UPI,Pending
+INV000544,2024-01-04,101206,SIP,21648,Madhya Pradesh,Bhopal,B30,18-25,Male,3.6,Cheque,Verified
+INV004561,2024-01-04,101208,SIP,6341,Haryana,Faridabad,B30,26-35,Male,18.8,Mandate,Verified
+INV002500,2024-01-04,149324,SIP,25042,Delhi,New Delhi,T30,26-35,Male,14.7,Net Banking,Verified
+INV001882,2024-01-04,119598,Lumpsum,470885,Rajasthan,Udaipur,B30,26-35,Male,22.9,Cheque,Verified
+INV000422,2024-01-04,118636,SIP,4429,Punjab,Amritsar,B30,46-55,Male,94.1,UPI,Pending
+INV001903,2024-01-04,119093,SIP,15127,Delhi,New Delhi,T30,26-35,Female,8.8,Mandate,Verified
+INV003123,2024-01-04,119551,SIP,4518,Haryana,Faridabad,B30,36-45,Male,36.2,UPI,Verified
+INV000413,2024-01-04,119120,SIP,3176,Haryana,Gurugram,T30,36-45,Female,49.8,Net Banking,Verified
+INV002940,2024-01-04,118636,Redemption,347064,Haryana,Faridabad,B30,26-35,Male,18.3,Cheque,Verified
+INV004414,2024-01-04,149324,SIP,10650,Uttar Pradesh,Lucknow,T30,26-35,Male,6.6,Net Banking,Verified
+INV004142,2024-01-04,119551,Redemption,127871,West Bengal,Kolkata,T30,26-35,Male,12.0,UPI,Verified
+INV002733,2024-01-04,101207,Lumpsum,505706,Punjab,Chandigarh,T30,26-35,Male,19.0,Cheque,Verified
+INV000374,2024-01-04,119599,SIP,11655,West Bengal,Kolkata,T30,18-25,Female,4.1,UPI,Verified
+INV000299,2024-01-04,119094,Lumpsum,271542,Delhi,Noida,T30,26-35,Male,24.4,UPI,Verified
+INV004787,2024-01-04,148568,Redemption,259691,Haryana,Faridabad,B30,26-35,Male,8.2,UPI,Verified
+INV002362,2024-01-04,120504,Lumpsum,391995,Delhi,New Delhi,T30,26-35,Male,22.3,Cheque,Verified
+INV000405,2024-01-04,119552,Redemption,237811,Karnataka,Mysore,B30,56+,Female,8.6,Net Banking,Verified
+INV003439,2024-01-04,149324,SIP,8648,West Bengal,Kolkata,T30,18-25,Female,3.9,Cheque,Verified
+INV002941,2024-01-04,118636,SIP,29077,Rajasthan,Udaipur,B30,36-45,Female,59.2,Mandate,Verified
+INV000567,2024-01-04,100016,Redemption,151782,Delhi,New Delhi,T30,26-35,Male,9.1,Net Banking,Verified
+INV001819,2024-01-04,119552,SIP,6343,West Bengal,Kolkata,T30,26-35,Male,11.9,Mandate,Verified
+INV003113,2024-01-04,119093,SIP,6483,Rajasthan,Jaipur,T30,26-35,Male,22.0,Net Banking,Verified
+INV000252,2024-01-04,125498,Redemption,515151,Gujarat,Surat,T30,46-55,Female,24.4,Mandate,Verified
+INV003415,2024-01-04,148568,SIP,8206,Gujarat,Surat,T30,46-55,Male,96.6,Mandate,Verified
+INV003328,2024-01-04,119120,Lumpsum,303017,Karnataka,Mysore,B30,26-35,Female,14.2,Cheque,Pending
+INV000651,2024-01-04,119552,SIP,12573,Delhi,New Delhi,T30,18-25,Male,6.0,Net Banking,Verified
+INV003411,2024-01-04,119095,Lumpsum,52372,Tamil Nadu,Chennai,T30,26-35,Male,14.2,Mandate,Verified
+INV002697,2024-01-04,149323,SIP,511,West Bengal,Kolkata,T30,26-35,Male,14.1,Cheque,Pending
+INV002685,2024-01-04,119093,SIP,51489,Madhya Pradesh,Bhopal,B30,18-25,Male,3.7,Net Banking,Verified
+INV000458,2024-01-04,119095,Lumpsum,343114,Rajasthan,Udaipur,B30,56+,Male,18.9,Net Banking,Verified
+INV002366,2024-01-04,119092,Redemption,165229,Telangana,Hyderabad,T30,26-35,Female,20.4,Net Banking,Verified
+INV004684,2024-01-04,118635,SIP,12906,Tamil Nadu,Chennai,T30,26-35,Male,22.0,Mandate,Verified
+INV001899,2024-01-04,120506,SIP,578,Gujarat,Ahmedabad,T30,26-35,Male,7.6,Mandate,Pending
+INV000832,2024-01-04,149322,SIP,6694,Karnataka,Bangalore,T30,36-45,Male,36.6,UPI,Verified
+INV002195,2024-01-04,118636,Redemption,16534,Telangana,Hyderabad,T30,26-35,Male,24.5,Net Banking,Verified
+INV003061,2024-01-04,102885,Lumpsum,317573,Uttar Pradesh,Lucknow,T30,26-35,Female,11.9,Mandate,Verified
+INV001048,2024-01-04,119094,Lumpsum,260931,Delhi,New Delhi,T30,46-55,Male,46.6,UPI,Verified
+INV002585,2024-01-04,120505,Lumpsum,265554,Uttar Pradesh,Lucknow,T30,18-25,Male,3.2,Mandate,Verified
+INV003674,2024-01-04,102886,Redemption,279015,Uttar Pradesh,Kanpur,B30,36-45,Male,32.8,UPI,Verified
+INV002996,2024-01-04,120507,Lumpsum,427873,Madhya Pradesh,Bhopal,B30,26-35,Male,20.7,Net Banking,Pending
+INV000049,2024-01-04,119094,SIP,13494,Maharashtra,Nashik,B30,36-45,Male,23.8,Cheque,Verified
+INV004030,2024-01-04,120504,SIP,2252,Uttar Pradesh,Lucknow,T30,18-25,Female,4.4,Mandate,Verified
+INV003847,2024-01-04,125497,Redemption,66045,Telangana,Hyderabad,T30,26-35,Male,19.7,Mandate,Verified
+INV004970,2024-01-04,102886,Lumpsum,41075,Maharashtra,Nashik,B30,36-45,Female,27.6,Net Banking,Verified
+INV002134,2024-01-04,119552,SIP,5099,Rajasthan,Udaipur,B30,26-35,Male,24.8,Mandate,Verified
+INV003047,2024-01-04,118636,Lumpsum,317302,Maharashtra,Mumbai,T30,46-55,Male,40.0,Cheque,Verified
+INV004899,2024-01-04,120842,SIP,1081,Delhi,New Delhi,T30,36-45,Male,39.4,Net Banking,Verified
+INV004896,2024-01-04,149324,Lumpsum,251783,Uttar Pradesh,Agra,B30,18-25,Female,3.5,Mandate,Verified
+INV003023,2024-01-04,118633,SIP,872,Gujarat,Ahmedabad,T30,26-35,Female,13.6,Cheque,Verified
+INV002823,2024-01-04,118633,SIP,53710,Telangana,Hyderabad,T30,26-35,Male,21.5,Net Banking,Verified
+INV003509,2024-01-04,149323,SIP,6149,Haryana,Gurugram,T30,36-45,Male,14.5,Mandate,Verified
+INV003047,2024-01-04,148568,SIP,4437,Maharashtra,Mumbai,T30,46-55,Male,40.0,Mandate,Verified
+INV001175,2024-01-04,119120,SIP,21148,Punjab,Chandigarh,T30,36-45,Male,33.5,Cheque,Verified
+INV000134,2024-01-04,119552,SIP,13078,Punjab,Chandigarh,T30,36-45,Female,50.2,Mandate,Verified
+INV003565,2024-01-04,119095,SIP,2454,Gujarat,Surat,T30,26-35,Male,12.0,Net Banking,Verified
+INV002826,2024-01-04,119095,SIP,543,Haryana,Gurugram,T30,26-35,Male,20.5,Mandate,Pending
+INV004096,2024-01-04,149323,SIP,25101,Tamil Nadu,Coimbatore,B30,36-45,Male,57.1,Cheque,Pending
+INV000074,2024-01-04,120504,SIP,7798,Rajasthan,Jaipur,T30,26-35,Female,8.4,Mandate,Pending
+INV004911,2024-01-04,149324,SIP,47812,West Bengal,Kolkata,T30,26-35,Female,9.4,UPI,Verified
+INV001594,2024-01-04,119095,SIP,3533,Madhya Pradesh,Bhopal,B30,26-35,Male,13.9,Cheque,Verified
+INV004079,2024-01-04,120843,SIP,432,Karnataka,Bangalore,T30,36-45,Female,57.2,Net Banking,Verified
+INV003396,2024-01-04,119599,SIP,2810,Karnataka,Mysore,B30,26-35,Male,23.4,Net Banking,Verified
+INV004066,2024-01-04,120841,SIP,15405,Gujarat,Surat,T30,46-55,Male,30.8,Net Banking,Verified
+INV001131,2024-01-04,119551,SIP,445,Tamil Nadu,Coimbatore,B30,36-45,Female,32.0,UPI,Verified
+INV002681,2024-01-04,100025,SIP,8884,Maharashtra,Nashik,B30,18-25,Female,7.2,UPI,Verified
+INV000371,2024-01-04,119120,SIP,5416,Uttar Pradesh,Agra,B30,26-35,Male,14.6,Cheque,Pending
+INV001717,2024-01-04,120505,Lumpsum,351527,Karnataka,Mysore,B30,26-35,Male,23.2,UPI,Verified
+INV000799,2024-01-04,125497,SIP,3274,Madhya Pradesh,Indore,T30,18-25,Male,4.6,Net Banking,Verified
+INV004497,2024-01-04,118635,Redemption,453909,Rajasthan,Jaipur,T30,26-35,Female,13.3,Mandate,Verified
+INV000369,2024-01-04,102886,Lumpsum,69084,Delhi,Gurugram,T30,26-35,Male,20.7,UPI,Verified
+INV003675,2024-01-04,119598,SIP,5637,West Bengal,Kolkata,T30,56+,Male,63.9,Net Banking,Verified
+INV004109,2024-01-04,120503,Lumpsum,160487,Uttar Pradesh,Lucknow,T30,56+,Female,59.8,UPI,Verified
+INV004281,2024-01-04,120507,Lumpsum,78516,Rajasthan,Jaipur,T30,26-35,Female,15.9,Net Banking,Verified
+INV000269,2024-01-04,119552,SIP,4719,Punjab,Amritsar,B30,46-55,Male,47.3,Cheque,Verified
+INV003288,2024-01-04,102886,SIP,45897,Punjab,Chandigarh,T30,56+,Male,57.9,Cheque,Pending
+INV000289,2024-01-04,101206,SIP,3127,Delhi,Gurugram,T30,36-45,Male,54.2,Net Banking,Verified
+INV003820,2024-01-04,100033,SIP,894,Tamil Nadu,Chennai,T30,56+,Male,61.2,Mandate,Verified
